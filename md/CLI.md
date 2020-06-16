@@ -6,7 +6,7 @@
 * mkdir : make directory, 디렉토리 생성하기
 ```
 mkdir fus13(디렉토리 이름)
-mkdir test view (복수 디렉토리 생성)
+mkdir test view 복수 디렉토리 생성
 ```
 * cd: 디렉토리 이동하기
 ```
