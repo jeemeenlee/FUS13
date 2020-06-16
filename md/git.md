@@ -12,3 +12,14 @@
 * git log: 확정본 리스트 보기
 * git reset: 버전 되돌리기
 * git tag: 버전에 tag 추가 또는 삭제하기
+```
+태그 추가
+git tag vn(가장 마지막 버전숫자/태그네임)
+git tag vn (그 전 버전숫자/태그네임) 고유ID#
+
+태그 버전으로 변경
+git reset --hard vn (버전숫자/태그네임)
+
+태그 제거
+git tag -d <vn> (태그네임)
+```
