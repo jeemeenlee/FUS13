@@ -2,6 +2,6 @@
 작성자 : 이지민
 
 * [CLI 명령어](md/CLI.md)
-* [Git 명령어](md/Git.md)
+* [Git 명령어](md/git.md)
 
 [README](../README.md)
